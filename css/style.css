@@ -1,5 +1,5 @@
 body {
-    background: #9f9f9f;
+    background: grey;
     color: white;
 }
 
@@ -37,7 +37,5 @@ body {
 }
 
 table, tr, td {
-    color:white;
-    border:white;
     border-style:1px solid white;
 }
