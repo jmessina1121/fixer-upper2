@@ -35,3 +35,7 @@ body {
 .table-container {
     background: black;
 }
+
+table, tr, td {
+    color:white;
+}
