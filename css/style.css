@@ -36,6 +36,6 @@ body {
     background: black;
 }
 
-table, tr, td {
+table {
     border-style:1px solid white;
 }
