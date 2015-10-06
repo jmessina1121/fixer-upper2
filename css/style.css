@@ -17,31 +17,37 @@ body {
     background: orange;
     color: black;
     padding:20px;
+    margin:10px;
 }
 
 .dodgers {
     background: blue;
     padding:20px;
+    margin:10px;
 }
 
 .cubs {
     padding:20px;
+    margin:10px;
 }
 
 .pittsburgh {
     background: yellow;
     color:black;
     padding:20px;
+    margin:10px;
 }
 
 .cardinals {
     background: red;
     padding:20px;
     color:black;
+    margin:10px;
 }
 
 .table-container {
     background: black;
     padding:20px;
     color:white;
+    margin:10px;
 }
