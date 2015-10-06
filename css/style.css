@@ -51,3 +51,7 @@ body {
     color:white;
     margin:10px;
 }
+table tr, td {
+    padding: 10px;
+    color: white;
+}
