@@ -37,9 +37,11 @@ body {
 .cardinals {
     background: red;
     padding:20px;
+    color:black;
 }
 
 .table-container {
     background: black;
     padding:20px;
+    color:white;
 }
