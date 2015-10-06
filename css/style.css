@@ -20,20 +20,24 @@ body {
 
 .dodgers {
     background: blue;
+    padding:20px;
 }
 
 .cubs {
-    
+    padding:20px;
 }
 
 .pittsburgh {
     background: yellow;
+    padding:20px;
 }
 
 .cardinals {
     background: red;
+    padding:20px;
 }
 
 .table-container {
     background: black;
+    padding:20px;
 }
